@@ -1,2 +1,2 @@
 # TestingPractice
-A project for Javascript testing with JEST
+A practice project for Javascript testing with JEST
